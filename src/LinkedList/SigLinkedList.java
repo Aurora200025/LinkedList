@@ -1,5 +1,9 @@
 package LinkedList;
 
+/**
+ * 单向链表
+ * @param <E>
+ */
 public class SigLinkedList<E> extends AbstractList<E> {
 
     private Node<E> first;
